@@ -1,6 +1,5 @@
 # End-to-end-NLP-Project-Implementation
 
-
 ## Project Workflows
 
 - constants
@@ -10,11 +9,10 @@
 - pipeline
 - app.py
 
-
 ## How to run?
 
 ```bash
-conda create -n hate python=3.8 -y
+conda create -n hate python=3.9 -y
 ```
 
 ```bash
@@ -25,12 +23,10 @@ conda activate hate
 pip install -r requirements.txt
 ```
 
-
 # Gcloud cli
+
 https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe
 
 ```bash
 gcloud init
 ```
-
-
